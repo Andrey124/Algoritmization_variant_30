@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Exame_Kondrashin/1.0.0": {
+        "runtime": {
+          "Exame_Kondrashin.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exame_Kondrashin/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
